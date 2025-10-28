@@ -1,3 +1,3 @@
-# CMPE 257 Project Repo
+# CMPE 279 Project Repo
 
-This is the repsoitory that I'm using for my CMPE 257 project for my Fall semester in SJSU's computer engineering graduate program. It is for a python-based IDS that uses ML to detect malicious traffic. Please do not use the program within this repository; this is my project that I am making public for the sake of a project portfolio.
+This is the repsoitory that I'm using for my CMPE 279 project for my Fall semester in SJSU's computer engineering graduate program. It is for a python-based IDS that uses ML to detect malicious traffic. Please do not use the program within this repository; this is my project that I am making public for the sake of a project portfolio.
